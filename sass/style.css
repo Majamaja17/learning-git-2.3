@@ -5,6 +5,24 @@ body {
 	text-align: center;
 }
 
+.parallax {
+	background-image: url("https://images.unsplash.com/photo-1503891450247-ee5f8ec46dc3?ixlib=rb-0.3.5&s=e06af3fe2c0fca04276c75db73d5f9d4&auto=format&fit=crop&w=1534&q=80");
+	height: 100%;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 header {
 	font-weight: bold;
+}
+
+section {
+	margin: 50px;
+}
+
+footer {
+	font-weight: bold;
+	font-size: 20px;
 }
