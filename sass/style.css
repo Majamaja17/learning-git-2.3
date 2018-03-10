@@ -6,7 +6,7 @@ body {
 }
 
 .parallax {
-	background-image: url("https://images.unsplash.com/photo-1503891450247-ee5f8ec46dc3?ixlib=rb-0.3.5&s=e06af3fe2c0fca04276c75db73d5f9d4&auto=format&fit=crop&w=1534&q=80");
+	background-image: url("https://images.unsplash.com/photo-1459232940206-e614670fece3?ixlib=rb-0.3.5&s=07c1bdd2307925a7771dd3365af8093c&auto=format&fit=crop&w=750&q=80");
 	height: 100%;
 	background-attachment: fixed;
     background-position: center;
