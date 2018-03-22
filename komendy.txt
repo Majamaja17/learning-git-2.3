@@ -1,0 +1,3 @@
+*autoprefixer-cli -o sass/style.css style.prefixed.css
+
+*var batch = checker.validate([ 'index.html', 'style.css' ]);
